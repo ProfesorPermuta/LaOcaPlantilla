@@ -6,7 +6,6 @@
 tablero {
   margin: auto;
   width: 100%;
-  display: ;
 }
 .contenedorTablero {
   font-size: 1em;
@@ -76,7 +75,7 @@ tablero {
   padding: 1em;
 }
 
-// Establecer las casillas
+/* Establecer las casillas */
 
 .numero26 {
   background-image: url("./assets/img/dado.png");
